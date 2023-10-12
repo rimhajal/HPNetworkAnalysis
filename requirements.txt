@@ -1,4 +1,4 @@
-pandas
-matplotlib
-networkx
-python-louvain
+pandas==1.3.4
+matplotlib==3.4.3
+networkx==2.6.3
+python-louvain==0.16
