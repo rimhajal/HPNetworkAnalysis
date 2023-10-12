@@ -1,6 +1,6 @@
 # Network Analysis and Detection Communities
 
-This repository serves as an examplary application of the Louvain method which deals with community detection within networks. The theoritical proof behind this method and graph analysis is found in the references below.\
+This repository serves as an examplary application of the Louvain method which deals with community detection within networks. The academic research behind this method and graph analysis is found in the references below.\
 
 ##### Data:
 
@@ -16,7 +16,7 @@ It yielded poor results (modularity < 0.2), but coherent nevertheless.\
 
 ##### References:
 
-The following resources were used to learn about Louvain method:
+Below are the resources for the research on the Louvain method:
 
 [1] [An introduction to network inference and mining](http://www.nathalievialaneix.eu/doc/pdf/wikistat-network_compiled.pdf) \
 [2] [The Louvain method for community detection in large networks](http://perso.uclouvain.be/vincent.blondel/research/louvain.html) \
